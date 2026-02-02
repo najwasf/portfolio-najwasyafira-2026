@@ -24,7 +24,7 @@ export const projects = [
     category: "IoT & Web",
     description: "Monitoring suhu berbasis MQTT dengan dashboard React.",
     tags: ["MQTT", "React", "IoT"],
-    detail: "Sistem IoT dengan broker MQTT dan dashboard web untuk monitoring & kontrol. Proyek ini dibuat untuk memenuhi matakuliah Internet of Things.  Selengkapnya: https://hackmd.io/@nKRHJiQ-Tq2w2in25rKMWA/ryzdS-kQll#"
+    detail: "Sistem IoT dengan broker MQTT dan dashboard web untuk monitoring & kontrol. Proyek ini dibuat untuk memenuhi matakuliah Internet of Things."
   },
   {
     id: 4,
